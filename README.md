@@ -50,7 +50,7 @@ Graduating in Information Systems (UNA) | Game Programming Tech (FUNEC) | Passio
 <br/>
 <br/>
 
-### 📊 Estatísticas
+### Estatísticas
 
 <p>
   <img 
