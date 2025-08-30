@@ -1,10 +1,10 @@
-# Gustavo Castro
+# 👨‍💻 Gustavo Castro
 
-**`Developer`**
+**`DevOps Developer`**
 
 Graduating in Information Systems | Game Programming Tech | Passionate about software development, AI, learning new technologies, and improving english!
 
-### Languages ​​and Technologies
+### 📚 Languages ​​and Technologies
 
 <img 
     align="left" 
@@ -58,7 +58,7 @@ Graduating in Information Systems | Game Programming Tech | Passionate about sof
 <br/>
 <br/>
 
-### Statistics
+### 📊 Statistics
 
 <p>
   <img 
