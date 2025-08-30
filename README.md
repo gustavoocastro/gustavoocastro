@@ -9,8 +9,8 @@
 
 <div align="center">
   <a href="https://github.com/gustavoocastro">
-  <img height="220em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=gustavoocastro&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="134em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=gustavoocastro&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="210em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=gustavoocastro&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="144em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=gustavoocastro&layout=compact&langs_count=7&theme=dracula"/>
 </div>
     
 <div align="center"><br>
