@@ -1,6 +1,6 @@
-# Gustavo Oliveira Castro
+# Hello there!
 
-**`DevOps Developer`**
+**`DevOps Student`**
 
 Graduating in Information Systems | Game Programming Tech | Passionate about software development, AI, learning new technologies, and improving english!
 
