@@ -1,8 +1,8 @@
-# 👨‍💻 Gustavo Castro
+# Gustavo Castro
 
-**`Desenvolvedor`**
+**`Developer`**
 
-Olá, me chamo Gustavo Oliveira Castro, tenho 21 anos e estou graduando em Sistemas de Informação na UNA. Sou natural de Nova Lima, mas resido em Contagem-MG. Concluí o ensino médio na FUNEC, com o curso técnico em Programação de Jogos Digitais. Sou entusiasta por computação e busco cada vez mais aprimorar meus conhecimentos e aprender novas tecnologias!
+Graduating in Information Systems (UNA) | Game Programming Tech (FUNEC) | Passionate about software development, AI, learning new technologies, and improving english
 
 ### Linguagens e Tecnologias
 
