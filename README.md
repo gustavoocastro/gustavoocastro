@@ -14,7 +14,7 @@
 </div>
 
 <div align="center">
-  <h4>languages ​​and technologies</h4>
+  <h4>Languages ​​and Technologies</h4>
 </div>
 
 <div align="center"><br>
