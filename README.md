@@ -88,6 +88,14 @@ Graduating in Information Systems | Game Programming Tech | Passionate about sof
 />
 <img 
     align="left" 
+    alt="Kubernetes"
+    title="Kubernetes" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original.svg" 
+/>
+<img 
+    align="left" 
     alt="Azure"
     title="Azure" 
     width="30px" 
