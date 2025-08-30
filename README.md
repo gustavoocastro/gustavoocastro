@@ -1,6 +1,6 @@
 # Hello there!
 
-**`DevOps Student`**
+**`Developer Student`**
 
 Graduating in Information Systems | Game Programming Tech | Passionate about software development, AI, learning new technologies, and improving english!
 
