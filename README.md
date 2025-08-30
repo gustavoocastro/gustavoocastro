@@ -26,6 +26,8 @@
        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
   <img align="center" alt="Gustavo-Js" height="45" width="55"
        src="https://github.com/devicons/devicon/blob/v2.16.0/icons/javascript/javascript-original.svg" />
+    <img align="center" alt="Gustavo-React" height="45" width="55"
+       src="https://github.com/devicons/devicon/blob/v2.16.0/icons/react/react-original.svg" />
   </div>
   
 ##
