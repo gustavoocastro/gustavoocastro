@@ -37,7 +37,7 @@
   <img align="center" alt="Gustavo-Docker" height="45" width="55"
        src="https://github.com/devicons/devicon/blob/v2.16.0/icons/docker/docker-original.svg" />
   <img align="center" alt="Gustavo-Aws" height="45" width="55"
-       src="https://github.com/devicons/devicon/blob/v2.16.0/icons/aws/aws-original.svg" />
+       src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/1200px-Amazon_Web_Services_Logo.svg.png" />
 </div>
   
 ##
