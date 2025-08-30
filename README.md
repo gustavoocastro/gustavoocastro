@@ -13,7 +13,10 @@
   <img height="100em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=gustavoocastro&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
-### 🤖 Linguagens e Tecnologias
+<div align="center">
+  <h4>languages ​​and technologies</h4>
+  <br />
+</div>
 
 <div align="center"><br>
   <img align="center" alt="Gustavo-Python" height="45" width="55"
