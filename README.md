@@ -1,6 +1,6 @@
 <div align="center">
   <h4>Hey, my name is Gustavo Castro and welcome to my github!</h4>
-  🔒 I'm currently learning DevOps|Fullstack
+  🔒 I'm currently learning Fullstack | DevOps
   <br />
 </div>
 
