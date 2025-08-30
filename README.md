@@ -22,6 +22,8 @@
        src="https://github.com/devicons/devicon/blob/v2.16.0/icons/mysql/mysql-original.svg" />
   <img align="center" alt="Gustavo-Fastapi" height="45" width="55"
        src="https://github.com/devicons/devicon/blob/v2.16.0/icons/fastapi/fastapi-original.svg" />
+  <img align="center" alt="Gustavo-Postgresql" height="45" width="55"
+       src="https://github.com/devicons/devicon/blob/v2.16.0/icons/postgresql/postgresql-original.svg" />
   <img align="center" alt="Gustavo-Ts" height="45" width="55"
        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
   <img align="center" alt="Gustavo-Js" height="45" width="55"
