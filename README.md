@@ -12,10 +12,6 @@
   <img height="200em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=gustavoocastro&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 </div>
 
-<div align="center">
-  <h4>Languages ​​and Technologies</h4>
-</div>
-
 <div align="center"><br>
   <img align="center" alt="Gustavo-Python" height="45" width="55"
        src="https://github.com/devicons/devicon/blob/v2.16.0/icons/python/python-original.svg" />
